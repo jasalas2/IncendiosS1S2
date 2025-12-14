@@ -1,4 +1,4 @@
-# Detección de Incendios usando Sentinel-1 y Sentinel-2
+# Detección de Incendios usando Sentinel-1 y Sentinel-2 2024
 ## Descripción
 El siguiente análisis utiliza imágenes de Sentinel-1 y Sentinel-2 para detectar incendios en la región de Palo Verde, Costa Rica, durante el año 2023.
 
